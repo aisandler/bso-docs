@@ -93,9 +93,9 @@ The Four Actions Framework eliminates, reduces, raises, and creates factors to b
 
 **2. Legal Technology Expertise Depth**
 - **Industry standard**: Generalist consultants or single-platform focus
-- **BSO approach**: Tabs3 President's Circle + multi-platform certifications
+- **BSO approach**: Tabs3 President's Circle certification + multi-platform expertise
 - **Differentiation**: 30 years Tabs3 expertise, can optimize systems while running billing
-- **Evidence**: Vendor partnerships, certification levels, client complexity handled
+- **Evidence**: Tabs3 President's Circle status, vendor partnerships, 30 years expertise
 
 **3. Client Retention & Relationship Investment**
 - **Industry standard**: Project completion, minimal ongoing engagement
@@ -449,7 +449,7 @@ Based on Blue Ocean Strategy differentiation, BSO's messaging foundation:
 
 **Proof points**:
 - Tabs3/PracticeMaster President's Circle Partner
-- Multi-platform certifications (Clio, Caret, CosmoLex)
+- Multi-platform experience (Clio, Caret, CosmoLex)
 - 30+ years legal technology experience
 - Tech optimization + billing services in one relationship
 

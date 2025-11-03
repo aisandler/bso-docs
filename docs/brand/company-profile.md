@@ -75,8 +75,8 @@
 - Practice management software selection
 - System implementation and data migration
 - Platform optimization and customization
-- Multi-platform certifications (Tabs3, Clio, Caret, CosmoLex, NetDocuments)
-- **Specialty**: Tabs3/PracticeMaster (President's Circle Partner status)
+- Multi-platform experience (Tabs3, Clio, Caret, CosmoLex, NetDocuments)
+- **Specialty**: Tabs3/PracticeMaster (President's Circle Partner - verified certification)
 
 **Business & Operations Consulting**
 - Partner compensation structure design
@@ -179,11 +179,11 @@
 - Multiple 10-20 year client relationships
 - Client testimonials emphasize long-term partnership
 
-**Technical Certifications**
-- Tabs3/PracticeMaster: President's Circle Partner
-- Clio, Caret, CosmoLex certified
-- NetDocuments, Microsoft expertise
-- Multiple platform specializations
+**Technical Expertise**
+- Tabs3/PracticeMaster: President's Circle Partner (top-tier certification)
+- Multi-platform experience: Clio, Caret, CosmoLex
+- NetDocuments and Microsoft expertise
+- 30 years of legal technology specialization
 
 **Referral Network Strength**
 - Affinity Consulting (largest competitor) refers billing clients to BSO
