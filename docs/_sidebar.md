@@ -40,7 +40,3 @@
   - [Content Production Complete](guides/content-production-complete.md)
   - [WordPress Publishing Guide](guides/wordpress-publishing.md)
   - [SEO Optimization Checklist](guides/seo-optimization.md)
-
-- **📅 Project Management**
-  - [Checkpoint Summary](project/checkpoint-summary.md)
-  - [Morning Agenda](project/morning-agenda.md)
