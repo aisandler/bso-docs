@@ -240,9 +240,9 @@ content/blog-posts/
 ### Phase 3: AI Search Optimization (Week 3-4)
 
 **Tasks**:
-1. **Submit to ChatGPT indexing** (if API available)
-2. **Optimize for Perplexity citations** (structured data, clear answers)
-3. **Monitor AI search mentions** (track when BSO appears in AI responses)
+1. **Ensure public accessibility** (AI search engines crawl public content automatically)
+2. **Optimize for AI citations** (structured data, clear answers, FAQ format)
+3. **Monitor AI search mentions** (track when BSO appears in ChatGPT, Gemini, Perplexity responses)
 4. **Refine based on AI feedback** (which articles get cited, which don't)
 
 **AI Search Checklist**:
